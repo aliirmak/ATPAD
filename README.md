@@ -2,7 +2,7 @@
 Adverserial Training of Power Systems AgainstDenial-of-Service Attacks
 
 The data is obtained from:
-https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
+https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets.
 We used 2-class data.
 
 Make sure you have the following packages installed to run the code:
