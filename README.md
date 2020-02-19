@@ -1,5 +1,5 @@
 # ATPAD
-Adverserial Training of Power Systems AgainstDenial-of-Service Attacks
+Adverserial Training of Power Systems Against Denial-of-Service Attacks
 
 The data is obtained from:
 https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets.
