@@ -1,4 +1,4 @@
-# ATPAD
+# @PAD
 Adverserial Training of Power Systems Against Denial-of-Service Attacks
 
 The data is obtained from:
