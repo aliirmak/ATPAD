@@ -14,3 +14,5 @@ Make sure you have the following packages installed to run the code:
 
 Additionally, you need to install Gurobi. They have free academic license available.
 After installing Gurobi, you need to install gurobi python library.
+
+Presentation link: https://www.youtube.com/watch?v=yGFGJ1MHkQs
